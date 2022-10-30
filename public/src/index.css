@@ -1,0 +1,14 @@
+@import '~antd/dist/antd.css';
+*{
+  padding:0;
+  margin: 0;
+  box-sizing: border-box;
+}
+body{
+  height:100vh;
+  width:100vw;
+  overflow: hidden;
+}
+p{
+  margin-bottom: 0 !important;
+}
